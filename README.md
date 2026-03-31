@@ -34,7 +34,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="450" src="https://suzuran28.github.io/img/img_base/img1.png"  />
 </div>
 
